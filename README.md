@@ -55,4 +55,4 @@ Overall, Foodhub is generating the majority of its revenue from the top 5 most p
 
 ## Open the presentation
 
-Open [`foodhub_dashboard.html`](foodhub_dashboard.html) in a modern browser. The standalone page includes the full dataset, interactive filters, and CSV export; it requires no server or package installation. Use **Print / Save PDF** to create a static copy.
+Open (https://zachsteuer98.github.io/Foodhub/) in a modern browser. The standalone page includes the full dataset, interactive filters, and CSV export; it requires no server or package installation. Use **Print / Save PDF** to create a static copy.
